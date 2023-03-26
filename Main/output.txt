@@ -86,4 +86,3 @@ ap_lo is diastolic blood pressure.
 15--> T::1
 10--> T::2
 6--> T::1
-0--> T::2
